@@ -1,5 +1,5 @@
 # Ignore Python virtual environment
-.venv/*
+.venv
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -53,6 +53,3 @@ coverage.xml
 
 # macOS files
 .DS_Store
-
-# .env files
-.env
