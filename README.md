@@ -2,6 +2,8 @@
 
 This project allows users to perform searches on an Elasticsearch database containing vectorized documents using the ELSeR (Elasticsearch Learned Sparse Encoder Representations) model. The search process uses OpenAI or Groq to provide detailed responses based on the retrieved documents.
 
+![](https://github.com/EdRamos12/ai-insight-search-w-elasticsearch/blob/master/img/example.gif?raw=true)
+
 ## Features
 
 - Vectorized Search: Query documents stored in Elasticsearch using vector-based retrieval.
@@ -21,8 +23,8 @@ This project allows users to perform searches on an Elasticsearch database conta
 1. Clone the repository:
 
 ```bash
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/EdRamos12/ai-insight-search-w-elasticsearch
+cd ai-insight-search-w-elasticsearch
 ```
 
 2. Create a .env file by copying the .env.example:
